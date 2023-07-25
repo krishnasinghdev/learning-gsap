@@ -1,0 +1,39 @@
+Index for Learning GSAP:
+
+1.Tweening Basics:
+  Creating tweens.
+  Understanding target objects and properties.
+  Basic animation properties (duration, delay, etc.).
+  Using easing functions.
+
+2.Timelines:
+  Creating timelines.
+  Controlling timelines (play, pause, reverse, etc.).
+  Nesting tweens and timelines.
+  Labels and time-based control.
+
+3.Callbacks and Events:
+  Using callbacks for animations.
+  Working with event listeners.
+  Animation control based on user interactions.
+  
+4.SVG Animations:
+  Understanding SVG structure.
+  Animating SVG elements with GSAP.
+  Transforming SVG paths.
+  SVG-specific properties and techniques.
+
+5.Scroll Animations:
+  Creating scroll-triggered animations.
+  Controlling animations based on scroll position.
+  Scroll snapping and parallax effects.
+
+6.Morphing and Staggering:
+  Morphing between shapes and elements.
+  Staggering animations for sequential effects.
+  Complex animations using morphing and staggering together.
+
+7.Integration and Performance Optimization:
+  Integrating GSAP with JavaScript frameworks (React, Vue.js, etc.).
+  Performance optimization techniques for smoother animations.
+  Debugging and troubleshooting common issues.
