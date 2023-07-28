@@ -19,3 +19,7 @@
 body {
   /* background: rgb(var(--foreground-rgb)) */
 }
+
+.extrabold{
+  font-weight: 1000;
+}
